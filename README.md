@@ -12,4 +12,4 @@ Python's pip in a docker container for easy `pip install` when you just can’t 
 
 ## Reviews
 
-_It's kind of like birth!_ - JA
+_It's kind of like birth!_ - @yousaiditchewie
