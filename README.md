@@ -1,4 +1,4 @@
-# joshwhatk/pip
+# joshwhatk/pip 
 
 Python's pip in a docker container for easy `pip install` when you just can’t seem to get `pip` installed.
 
@@ -9,3 +9,7 @@ Python's pip in a docker container for easy `pip install` when you just can’t 
     - e.g. `mv /usr/bin/virtualenv /opt/`
 5. Exit from the container.
 6. Move the executables from `$(pwd)/opt` into `/usr/local/bin` and you are good to go!
+
+## Reviews
+
+_It's kind of like birth!_ - @yousaiditchewie
